@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Ronie, and I've been teaching of informatic, inclusion digital for my community location. I'm from Brazil, and I'm currently living in Brasilia.
+
+I’m looking to collaborate on project of programation at java, c, because I want be a great programming and make difer of society.
